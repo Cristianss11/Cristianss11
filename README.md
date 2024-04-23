@@ -5,8 +5,7 @@ Tenho 26 anos moro em guarulhos/SP e estou cada dia mais aprender que amo progra
 cabeça fico OOOOUULL era isso!!! amo programação, e doguinhos. Sou um otimo entusiasta em ficar testando alguns codigos que geralmente
 causam alguns bugs,por conta disso eu aprendo a resolver e a passar raiva quanto mais raiva passo, mais a programação me prende! 
 
-![good-morning](https://github.com/Cristianss11/Cristianss11/assets/91230251/83120eef-adf2-44e2-9e3a-bcd7c7d8a32f)
-
+![good-morning](https://github.com/Cristianss11/Cristianss11/assets/91230251/9f9c7c9d-1f8e-4079-9aed-d149353ccb1c)
 
 ## :computer: Ferramentas e Tecnologias
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="60" height="60" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="60" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="60" height="60" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="60" />
