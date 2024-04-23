@@ -5,6 +5,8 @@ Tenho 26 anos moro em guarulhos/SP e estou cada dia mais aprender que amo progra
 cabeça fico OOOOUULL era isso!!! amo programação, e doguinhos. Sou um otimo entusiasta em ficar testando alguns codigos que geralmente
 causam alguns bugs,por conta disso eu aprendo a resolver e a passar raiva quanto mais raiva passo, mais a programação me prende! 
 
+![good-morning](https://github.com/Cristianss11/Cristianss11/assets/91230251/108f2741-8a5e-4503-980c-23b86b28891d)
+
 
 
 ## :computer: Ferramentas e Tecnologias
