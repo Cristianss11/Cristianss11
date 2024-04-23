@@ -1,4 +1,6 @@
-### Olá me chamo Cristian Russi 👋
+# Cristian Russi
+
+### Hello, Devs !!! 👋
 Tenho 26 anos moro em guarulhos/SP e estou cada dia mais aprender que amo programação pois cada ideia ou conteudo que entra na minha
 cabeça fico OOOOUULL era isso!!! amo programação, e doguinhos. Sou um otimo entusiasta em ficar testando alguns codigos que geralmente
 causam alguns bugs,por conta disso eu aprendo a resolver e a passar raiva quanto mais raiva passo, mais a programação me prende! 
@@ -27,6 +29,7 @@ causam alguns bugs,por conta disso eu aprendo a resolver e a passar raiva quanto
 <a href = "mailto:cristianrocha24@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
 
 
 
