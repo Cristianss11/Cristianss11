@@ -1,9 +1,13 @@
 # Cristian Russi
 
-### Hello, Devs !!! 👋
-Tenho 26 anos moro em guarulhos/SP e estou cada dia mais aprender que amo programação pois cada ideia ou conteudo que entra na minha
-cabeça fico OOOOUULL era isso!!! amo programação, e doguinhos. Sou um otimo entusiasta em ficar testando alguns codigos que geralmente
-causam alguns bugs,por conta disso eu aprendo a resolver e a passar raiva quanto mais raiva passo, mais a programação me prende! 
+###👋 Hello, Devs!
+Me chamo Cristian, tenho 26 anos e sou de Guarulhos/SP.
+Com o tempo, descobri uma grande afinidade com a programação — gosto de transformar ideias em soluções e estou sempre em busca de aprender algo novo.
+
+Sou um entusiasta da tecnologia e tenho o hábito de explorar, testar e entender a fundo o funcionamento dos códigos. Mesmo quando surgem erros, encaro como parte do processo de evolução e aprendizado.
+
+Também gosto de manter o foco em boas práticas, escrever código limpo e melhorar continuamente minhas habilidades.
+Ah, e no tempo livre, gosto de cuidar dos meus pets e acompanhar novidades do mundo tech.
 
 ![good-morning](https://github.com/Cristianss11/Cristianss11/assets/91230251/9f9c7c9d-1f8e-4079-9aed-d149353ccb1c)
 
